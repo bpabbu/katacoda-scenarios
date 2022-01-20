@@ -21,9 +21,3 @@ adding 17
 adding 18
 adding 19
 adding 20
-adding 10
-adding 11
-adding 12
-adding 13
-adding 14
-adding 15
